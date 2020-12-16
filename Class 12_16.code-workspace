@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\du-den-data-pt-08-2020-u-c\\14-Intro-To-JavaScript"
+		},
+		{
+			"path": "..\\..\\du-den-data-pt-08-2020-u-c\\15-Interactive-Visualizations-and-Dashboards"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "14-Intro-To-JavaScript"
+	},
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.liveserver"
+		]
+	}
+}
